@@ -26,4 +26,4 @@ This project attempts to collect motion data for signal processing of the follow
 i. Hoping on one leg  -- Gross Motor  
 ii. hopping on both legs  -- Gross Motor  
 iii. Colouring tiny dots   -- Fine Motor  
-iv.  picking tiny stones in a garden -- Fine Motor   
+iv.  picking tiny stones from a garden -- Fine Motor   
