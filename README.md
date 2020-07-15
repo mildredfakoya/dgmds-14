@@ -1,5 +1,5 @@
 # dgmds-14
-# MEASURING AND ANALYSING FINE MOTOR SKILLS TO DETECT DEVELOPMENTAL DELAY IN CHILDREN WITH AUTISM
+# MEASURING AND ANALYSING MOTOR SKILLS TO DETECT DEVELOPMENTAL DELAY IN CHILDREN WITH AUTISM
 1. Team Name: Mildred Fakoya  
 2. Team Members and Roles:  
 a. Mildred Fakoya: Gather required items for setting up the development environment  
@@ -8,7 +8,7 @@ c. Mildred Fakoya: Data collection
 d. Mildred Fakoya: Data Analysis  
 e. Mildred Fakoya: Results and Report  
 
-3. Goal of the Project:  Measuring and analyzing fine motor skills to detect motor skill developmental delay in children with Autism spectrum Disorder.  
+3. Goal of the Project:  Measuring and processing motor skills to detect motor skill developmental delay in children with Autism spectrum Disorder.  
 
 4. Software and Developing tools: Sensor Tile, Unicleo-GUI and Python.  
 
@@ -22,4 +22,8 @@ Week 2: Data Collection and Analysis
 Week 3: Wrapping up and Report  
 
 **Children with autism often have problems developing motor skills, such as running, throwing a ball or even learning how to write.**  
-This project attempts to collect motion data for motion categorized as Fine motor skills.....
+This project attempts to collect motion data for signal processing of the following motion:  
+i. Hoping on one leg  -- Gross Motor  
+ii. hopping on both legs  -- Gross Motor  
+iii. Colouring tiny dots   -- Fine Motor  
+iv.  picking tiny stones in a garden -- Fine Motor   
