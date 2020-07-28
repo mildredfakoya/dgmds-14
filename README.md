@@ -1,5 +1,5 @@
 # dgmds-14
-# MEASURING AND ANALYSING MOTOR SKILLS TO DETECT DEVELOPMENTAL DELAY IN CHILDREN WITH AUTISM
+# EVALUATING THE USE OF MOTION SENSOR IN DETECTING MOTOR DEVELOPMENTAL DELAYS IN CHILDREN WITH AUTISM
 1. Team Name: Mildred Fakoya  
 2. Team Members and Roles:  
 a. Mildred Fakoya: Gather required items for setting up the development environment  
@@ -26,4 +26,9 @@ This project attempts to collect motion data for signal processing of the follow
 i. Hoping on one leg  -- Gross Motor  
 ii. hopping on both legs  -- Gross Motor  
 iii. Colouring tiny dots   -- Fine Motor  
-iv.  picking tiny stones from a garden -- Fine Motor   
+iv.  Stacking Tiny Blocks -- Fine Motor
+
+### Hardware devices used
+
+
+### Softwares Used   
